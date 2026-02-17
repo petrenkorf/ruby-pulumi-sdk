@@ -1,3 +1,5 @@
+require_relative '../../resource'
+
 module Pulumi 
   module Aws
     module S3
